@@ -1,11 +1,11 @@
-id: ebeb96bf730b4ceab557cac905647c50
+id: 63fb8aac795d43ecad07588fca5d35d9
 annotation_type: index
 revision: '00001'
 annotations:
-  92efb3e7a1434456bb33ca785716ca97:
+  64b3a115e4d94fa3a524ef740acb18cd:
     parts: {}
     span:
     - vol: 47
-      start: 0
-      end: 3471
+      start: 1
+      end: 3487
     work_id: N4953
