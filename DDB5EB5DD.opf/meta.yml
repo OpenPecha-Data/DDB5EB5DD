@@ -1,0 +1,22 @@
+id: DDB5EB5DD
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-03-23T08:33:34+00:00'
+last_modified: '2022-05-30T07:26:53.572884+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    f1c0:
+      image_group_id: I1PD95892
+      title: ཡེ་ཤེས་མགོན་པོ་གྲི་གུག་ཅན་གྱི་བདག་བསྐྱེད་བཟླས་པ་བསྟོད་པ་རྣམས།
+      total_pages: 1464
+      order: 47
+      base_file: f1c0.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null

@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   aa75adddc4fc44c5b1ea4aa8b75b8166:
     parts: {}
+    work_id: N3732
     span:
-    - vol: 47
+    - base: f1c0
       start: 0
       end: 3452
-    work_id: N3732
